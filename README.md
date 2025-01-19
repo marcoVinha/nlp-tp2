@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repo fine tunes a BERTimbau model ([`neuralmind/bert-base-portuguese-cased`](https://huggingface.co/neuralmind/bert-base-portuguese-cased), 110M parameters) in the Mac-Morpho dataset to perform a Parts of Speech Tagging (POS Tagging) task in portuguese.
+This repo fine tunes a BERTimbau model ([`neuralmind/bert-base-portuguese-cased`](https://huggingface.co/neuralmind/bert-base-portuguese-cased), 110M parameters) in the [Mac-Morpho](https://huggingface.co/datasets/nilc-nlp/mac_morpho) dataset to perform a Parts of Speech Tagging (POS Tagging) task in portuguese.
 
 ## Objectives
 
