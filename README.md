@@ -8,7 +8,7 @@ This repo fine tunes a BERTimbau model ([`neuralmind/bert-base-portuguese-cased`
 
 - Fine tune a model to perform POS Tagging in the Mac-Morpho dataset
 - Evaluate the overall performance of the model
-- Compare it to the [`lisaterumi/postagger-portuguese`](https://huggingface.co/lisaterumi/postagger-portuguese), which already does that
+- Compare it to the [`lisaterumi/postagger-portuguese`](https://huggingface.co/lisaterumi/postagger-portuguese), which was fine-tuned on the same dataset
 
 ## Managing requirements
 
